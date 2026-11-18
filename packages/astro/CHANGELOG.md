@@ -1,5 +1,11 @@
 # @thesvg/astro
 
+## 4.0.14
+
+### Patch Changes
+
+- fix: remove expressvpn icons following DMCA notice ([#1575](https://github.com/glincker/thesvg/issues/1575))
+
 ## 4.0.12
 
 ### Patch Changes
